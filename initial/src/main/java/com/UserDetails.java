@@ -20,6 +20,7 @@ public class UserDetails implements Serializable {
         this.lastName=lastName;
         this.ssn=ssn;
         this.phoneNumber=phoneNumber;
+        // test
     }
 
     public static UserDetails randomUser() {
